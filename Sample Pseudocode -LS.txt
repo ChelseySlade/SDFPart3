@@ -1,0 +1,17 @@
+Project: Designing a Product
+Sample Pseudocode
+By. Lucy S and Chelsey S.
+
+Track the location of the user on GPS.
+
+Collect the data of where the user is located.
+
+Create a compiled list of different local businesses near the user.
+
+Supply the user with the compiled list of restaurants, bars, and other activities.
+
+Track the locations and businesses the user choices to partake in. 
+
+
+
+

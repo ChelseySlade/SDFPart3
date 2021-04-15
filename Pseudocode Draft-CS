@@ -1,0 +1,7 @@
+If user does not have location services activated
+	Send a request to use users current location 
+Collect users location from devices GPS service
+While collecting events in the area 
+	Allow user to select a proximity range 
+Collect events within the proximity 
+Return list to user
